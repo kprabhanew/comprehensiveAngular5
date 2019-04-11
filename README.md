@@ -8,10 +8,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Run the JSON server 
 
-json-server --watch db.json in one terminal
+`json-server --watch db.json` in one of the node terminal
 
-Test the json serve by Navigate to `http://localhost:300/`.  Click the text `Employee`. The Employee list will be listed
+Test the json server by Navigate to `http://localhost:300/`.  Click the text `Employee`. The Employee list will be listed
 
 ## Run Client application
 
-ng serve
+`ng serve` Run this command in another node terminal
