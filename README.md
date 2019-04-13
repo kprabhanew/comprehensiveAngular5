@@ -16,4 +16,4 @@ Test the json server by Navigate to `http://localhost:300/`.  Click the text `Em
 
 `ng serve` Run this command in another node terminal
 
-![screen_1] (https://github.com/kprabhanew/comprehensiveAngular5/blob/master/Author_Comprehensive_img01.PNG)
+![Screen_1] (https://github.com/kprabhanew/comprehensiveAngular5/blob/master/Author_Comprehensive_img01.PNG)
